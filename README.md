@@ -4,11 +4,10 @@ This project is part of my learning journey with Django REST Framework, Docker, 
 Objective
 The main goal of this project is to learn how to develop a web application using Django REST Framework for the backend, Docker for containerizing the application, and Kubernetes for container orchestration. Through this project, I hope to gain hands-on experience of how each technology works individually and how they integrate together in a real development environment.
 
-Reference Tutorial
-The YouTube tutorial that this project is based on is "[Tutorial Title]" created by [Creator's Name]. You can find the tutorial [here](link to the YouTube tutorial) (provide a direct link to the tutorial if possible).
 
 Project Structure
-/app: This directory contains the source code of the Django application.
+/drfsimplecrud: This directory contains the principal code of the Django application.
+/projects: this is an aplicacion
 /docker: Here you'll find Docker-related files such as the Dockerfile and configuration files needed for building and running containers.
 /kubernetes: Contains Kubernetes configuration files for container orchestration in a Kubernetes cluster.
 Contributions
